@@ -1,0 +1,8 @@
+azure-search-documents
+openai
+python-dotenv
+pandas
+langchain
+tiktoken
+langchain-community
+langchain-openai
