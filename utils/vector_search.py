@@ -133,7 +133,7 @@ class AzureVectorSearch:
 
         try:
             responses = search_client.search(
-                search_text=query,
+                search_text=None,
                 vector_queries=[vectors],
                 select=["content"]
             )
